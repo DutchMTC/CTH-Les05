@@ -21,6 +21,6 @@
 7. Zet de ramekins vervolgens in de oven voor ongeveer 13 minuten. Haal ze daarna uit de oven en leg een schaaltje op de ramekin, draai om en het cakeje stort je op deze manier op het schaaltje.
 8. Serveer met een beetje poedersuiker, een bolletje vanille-ijs erbij, een toefje slagroom of wat rood fruit. Eet smakelijk!
 
-Recept: [recept]
+Recept: [Lava Cake Recept]
 
-[recept]: https://www.eefkooktzo.nl/chocolade-lava-cake/
+[Lava Cake Recept]: https://www.eefkooktzo.nl/chocolade-lava-cake/
