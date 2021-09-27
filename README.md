@@ -20,3 +20,7 @@
 6. Vet de ramekins in met een beetje boter en bedek het bakje met een beetje cacaopoeder zodat je de cake er makkelijk uit krijgt na het bakken. Ik gebruik expres cacaopoeder hiervoor omdat bloem een wittige waas kan achterlaten op het cakeje.
 7. Zet de ramekins vervolgens in de oven voor ongeveer 13 minuten. Haal ze daarna uit de oven en leg een schaaltje op de ramekin, draai om en het cakeje stort je op deze manier op het schaaltje.
 8. Serveer met een beetje poedersuiker, een bolletje vanille-ijs erbij, een toefje slagroom of wat rood fruit. Eet smakelijk!
+
+Recept: [recept]
+
+[recept]: https://www.eefkooktzo.nl/chocolade-lava-cake/
